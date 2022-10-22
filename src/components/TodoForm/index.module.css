@@ -1,0 +1,10 @@
+.todo-creation-form {
+  width: 100%;
+  display: flex;
+  margin-bottom: 2.5vh;
+}
+
+.todo-creation-form 
+input {
+  flex: 1;
+}

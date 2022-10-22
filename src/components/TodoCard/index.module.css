@@ -1,0 +1,22 @@
+.todo-card {
+  border: 1px solid #333;
+  box-sizing: border-box;
+  padding: 0.35rem;
+  border-radius: 6px;
+}
+
+.todo-card p {
+  margin: 0;
+  font-weight: 600;
+}
+
+.controls-container {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  justify-content: flex-end;
+}
+
+.controls-container__remove-btn {
+  margin-left: 0.35rem;
+}
